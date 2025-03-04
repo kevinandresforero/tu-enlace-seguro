@@ -1,0 +1,27 @@
+:root {
+  --color-principal: #3498db;
+  --color-texto: #000002;
+  --color-fondo-gris: #dee9c2;
+  --color-fondo: #0d00ff2d;
+  --espaciado-principal: 10px;
+  --fuente-principal: "Arial", sans-serif;
+}
+
+/* Agrega un borde de 1px a todos los elementos dentro del body */
+body * {
+  border: 0px solid #000000; /* Puedes cambiar el color del borde aquí */
+  background-color: var(--color-fondo);
+  font-family: var(--fuente-principal);
+  color: var(--color-texto);
+  width: 100%;
+  height: auto;
+}
+
+body {
+}
+
+.content {
+  background-color: #f1f1f1;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.25);
+}
+
