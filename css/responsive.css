@@ -114,3 +114,12 @@
     }
 
 }
+
+
+p{
+    text-align: justify;
+}
+
+#logo {
+    text-align: left; /* Alinea el texto dentro del elemento a la izquierda */
+}
