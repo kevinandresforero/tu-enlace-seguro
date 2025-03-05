@@ -3,6 +3,10 @@ body {
   color: #000205;
 }
 
+nav-item {
+  font-weight: bold;
+}
+
 h1,
 h2,
 h3,
